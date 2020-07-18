@@ -48,7 +48,6 @@ site:security.*.* inurl: bounty
 site:*.*.de inurl:bug inurl:bounty
 site:*.*.uk intext:security report reward
 site:*.*.cn intext:security report reward
-  
 inurl /bug bounty
 inurl : / security
 inurl:security.txt
